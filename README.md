@@ -3,8 +3,11 @@ A modern and visually appealing frontend website for a coffee shop, built using 
 Key features include:
 
 Responsive Design: Ensures a seamless experience on all devices.
+
 Animated UI Elements: Enhances user engagement with subtle animations.
+
 Interactive Menu: Displays coffee selections with descriptions and prices.
+
 Contact Section: Provides easy access to shop details.
 
 Feel free to explore, modify, and improve the project to fit your needs!
